@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vuma News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="Sports">Sports</string>
+    <string name="Google">Google</string>
+    <string name="Tech">Technology</string>
+</resources>
